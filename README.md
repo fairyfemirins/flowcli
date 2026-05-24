@@ -8,6 +8,11 @@
 - **Self-Hostable**: Export workflows as Docker containers or Python scripts.
 - **Minimalist**: No bloat. Just the essentials for AI workflows.
 
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
+
+To request a transfer, open an issue in this repository or contact `@femirins` on GitHub.
+
 ## Installation
 ```bash
 pip install -e .
