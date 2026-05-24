@@ -1,0 +1,1 @@
+# flowcli - Local-first AI workflow builder CLI

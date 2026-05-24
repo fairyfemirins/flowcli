@@ -1,0 +1,6 @@
+name: my_workflow
+steps:
+- model: llama3
+  name: prompt
+  prompt: 'Summarize this document: {{input}}'
+  type: llm
